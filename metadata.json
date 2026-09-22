@@ -1,0 +1,6 @@
+{
+  "name": "Okul Aile Birliği Oy Sayım Sistemi",
+  "description": "Okul aile birliği seçimleri için pusula bazlı aday oy sayım, takip ve projeksiyon ekranı sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
